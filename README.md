@@ -33,9 +33,10 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-mitra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-mitra&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-mitra&show_icons=true&locale=en&layout=compact&theme=radical" alt="sagar-mitra" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-mitra&show_icons=true&locale=en&theme=radical" alt="sagar-mitra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-mitra" alt="sagar-mitra&theme=dark" /></p>
 
 ---
 
