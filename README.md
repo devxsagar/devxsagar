@@ -10,7 +10,7 @@
       <ul>
         <li>🔭 I am currently working on developing my programming skills.</li>
         <li>🌱 I’m learning frontend framework and improving my `DSA` skills</li>
-        <li>💬 Ask me about: `React`, `JavaScript`, `Node.js`, or anything tech</li>
+        <li>💬 Ask me about: <code>React</code>, <code>JavaScript</code>, <code>Node.JS</code>, or anything tech</li>
         <li>🎸 Fun fact: I play guitar to debug my brain 🎶</li>
       </ul>
     </td>
