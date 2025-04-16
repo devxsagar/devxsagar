@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-<table  border="0">
-  <tr>
-    <td style="width: 50%; padding-right: 20px; ">
+<table  style="border: none; width: 100%; text-align: center;">
+  <tr style="border: none; width: 100%; text-align: center;">
+    <td style="width: 50%; padding-right: 20px; border: none ">
       <ul>
         <li>🔭 I’m currently working on: **[Project Name](#)**</li>
         <li>🌱 I’m learning: `TypeScript`, `Next.js`, and improving my `DSA` skills</li>
@@ -12,7 +12,7 @@
         <li>🎸 Fun fact: I play guitar to debug my brain 🎶</li>
       </ul>
     </td>
-    <td style="width: 50%; text-align: center;">
+    <td style="width: 50%; text-align: center;border: none">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg1M2cwMWQ2azViOWc1bXQ0b3FnN3g0ZjE2aDhraWdnZnc5ZHF0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200" />
     </td>
   </tr>
