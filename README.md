@@ -1,50 +1,49 @@
-<h2 align="left">Hi 👋! My name is Sagar Mitra and I'm a Frontend Developer from India</h2>
+# 👋 Hey there! I'm Sagar Mitra [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
-###
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-mitra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-mitra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div >
+    <ul>
+      <li>🔭  I’m currently working on: <b>Personal Projects</b></li>
+      <li>🌱 I’m learning: <b>frontend framework</b> and improving my <b>DSA skills</b> </li>
+      <li>💬 Ask me about: `React`, `JavaScript`, `Node.js`, or anything tech</li>
+      <li>🎸 Fun fact: I play guitar to debug my brain 🎶</li>
+    </ul>
+  </div>
+  <div >
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWg1M2cwMWQ2azViOWc1bXQ0b3FnN3g0ZjE2aDhraWdnZnc5ZHF0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200" />
+  </div>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
-###
+## 🚀 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  
-          
-</div>
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,nodejs,expressjs,mongodb,git,github,vscode,postman" />
+</p>
 
-<div align="left">
-<!--   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
- <a href="https://www.linkedin.com/in/sagar-mitra-6b54572a4/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-mitra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-mitra&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+    <a target="_blank" href="https://www.linkedin.com/in/sagar-mitra-6b54572a4/"  ><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+    <a target="_blank" href="mailto:mitrasagar10@gmail.com"  ><img src="https://skillicons.dev/icons?i=gmail" /> </a>
+</p>
+---
+
+
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
