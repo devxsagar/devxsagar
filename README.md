@@ -6,8 +6,8 @@
   <tr style="border: none; width: 100%; text-align: center;">
     <td style="width: 50%; padding-right: 20px; border: none ">
       <ul>
-        <li>🔭 I’m currently working on: **[Project Name](#)**</li>
-        <li>🌱 I’m learning: `TypeScript`, `Next.js`, and improving my `DSA` skills</li>
+        <li>🔭 I’m currently working on: <b>Personal Projects</b></li>
+        <li>🌱 I’m learning: frontend framework and improving my `DSA` skills</li>
         <li>💬 Ask me about: `React`, `JavaScript`, `Node.js`, or anything tech</li>
         <li>🎸 Fun fact: I play guitar to debug my brain 🎶</li>
       </ul>
@@ -35,6 +35,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-mitra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-mitra&layout=compact&theme=radical)
+
 
 ---
 
