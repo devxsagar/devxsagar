@@ -35,12 +35,17 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-mitra&show_icons=true&locale=en&layout=compact&theme=radical&card_width=50" alt="sagar-mitra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-mitra&show_icons=true&locale=en&theme=radical&card_width=50" alt="sagar-mitra" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-mitra&theme=radical"  alt="sagar-mitra" /></p>
+<div style="display:flex; align-items:center; justify-content:center"> 
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-mitra&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-mitra&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 </div>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-mitra&" alt="sagar-mitra&theme=radical" /></p>
+
 
 ---
 
