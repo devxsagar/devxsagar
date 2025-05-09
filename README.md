@@ -44,7 +44,7 @@
 </a>
 </div>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-mitra&" alt="sagar-mitra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-mitra" alt="sagar-mitra" /></p>
 
 
 ---
