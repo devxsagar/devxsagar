@@ -36,7 +36,13 @@
 ## 📊 GitHub Stats
 
 <div style="display:flex; align-items:center; justify-content:center"> 
+  <a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-mitra&theme=radical" />
+</a>
 
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-mitra&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 </div>
  
 
