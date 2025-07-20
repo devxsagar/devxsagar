@@ -30,26 +30,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,nodejs,expressjs,mongodb,git,github,vscode,postman" />
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<div style="display:flex; align-items:center; justify-content:center"> 
-  <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-mitra&theme=radical" />
-</a>
-
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-mitra&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-mitra&" alt="sagar-mitra" /></p>
-</div>
- 
-
-
-
 ---
 
 ## 🌐 Connect with Me
