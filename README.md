@@ -3,11 +3,11 @@
 <br>
 
 <div align="center">
-  <a><u><strong>LinkedIn</strong></u></a>
+  <a href="www.linkedin.com/in/sagar-mitra19"><strong>LinkedIn</strong></a>
   <span> •</span>
-  <a><u><strong>Twitter</strong></u></a>
+  <a href="https://x.com/devwithsagar"><strong>Twitter</strong></a>
    <span> •</span>
-  <a><u><strong>Gmail</strong></u></a>
+  <a href="mailto:sagar.mitrasagar10@gmail.com"><strong>Gmail</strong></a>
 </div>
 
 <br/>
