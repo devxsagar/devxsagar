@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sagar-mitra19/" target="_blank"><strong>LinkedIn</strong></a>
   <span> • </span>
-  <a href="https://x.com/devwithsagar" target="_blank"><strong>Twitter</strong></a>
+  <a href="https://x.com/devxsagar" target="_blank"><strong>Twitter</strong></a>
   <span> • </span>
   <a href="mailto:sagar.mitrasagar10@gmail.com"><strong>Gmail</strong></a>
 </div>
