@@ -1,6 +1,7 @@
-<div>  <img width="1500" height="500" alt="Dev With Sagar" src="https://github.com/user-attachments/assets/3ec3d328-ca40-4bde-997d-384695e795b1" /> </div>
+<div>  <img width="1500" height="500" alt="devxsagar" src="https://github.com/user-attachments/assets/37eaf913-6723-4ba8-9931-cb0d77c728bf" /> </div>
 
 <br>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sagar-mitra19/" target="_blank"><strong>LinkedIn</strong></a>
