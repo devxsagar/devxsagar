@@ -24,7 +24,7 @@
 
 <h2> ⚡Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,figma,vite,vercel,vscode" />
 </p>
 
 
