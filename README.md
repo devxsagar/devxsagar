@@ -9,6 +9,8 @@
   <a href="https://x.com/devxsagar" target="_blank"><strong>Twitter</strong></a>
   <span> • </span>
   <a href="mailto:sagar.mitrasagar10@gmail.com"><strong>Gmail</strong></a>
+  <span> • </span>
+  <a href="https://sagar-portfolio-dxs.vercel.app/"><strong>Portfolio</strong></a>
 </div>
 
 <br/>
